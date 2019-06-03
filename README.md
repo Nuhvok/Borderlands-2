@@ -1,2 +1,2 @@
-# Play
-Game Scripts/Programs for Fun
+# Borderlands 2
+Game Scripts
