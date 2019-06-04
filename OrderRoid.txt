@@ -1,0 +1,1 @@
+set GD_Shields.Accessory.Accessory2_Roid_Order AttributeSlotUpgrades ((SlotName="Capacity",GradeIncrease=4,bActivateSlot=False),(SlotName="Special01",GradeIncrease=28,bActivateSlot=False),(SlotName="Special02",GradeIncrease=28,bActivateSlot=False))

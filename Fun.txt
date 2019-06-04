@@ -1,0 +1,1 @@
+set GD_Weap_Pistol.Name.Title_Vladof.Title_Legendary_Infinity WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=2000000000.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))

@@ -1,0 +1,1 @@
+set GD_Aster_Weapons.Pistols.Pistol_Barrel_Bandit_GrogNozzle rarity (BaseValueConstant=503.00000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.00000)
